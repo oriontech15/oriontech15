@@ -16,7 +16,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-GITHUB_USERNAME = os.getenv("GITHUB_USERNAME", "oriontech15")  # Reads from env, falls back to hardcoded
+GITHUB_USERNAME = os.getenv("GITHUB_ACTOR", "oriontech15")  # Reads from env, falls back to hardcoded
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # Reads from env, or None if not set
 
 START_MARKER = "<!-- GITHUB_SUMMARY_START -->"
