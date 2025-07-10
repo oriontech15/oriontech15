@@ -1,9 +1,10 @@
 import requests
 import datetime
 import re
+import os
 
-GITHUB_USERNAME = "your-github-username"
-GITHUB_TOKEN = "your-github-token"  # Optional, but recommended for higher rate limits
+GITHUB_USERNAME = os.getenv("GITHUB_USERNAME", "oriontech15")  # Reads from env, falls back to hardcoded
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # Reads from env, or None if not set
 
 START_MARKER = "<!-- GITHUB_SUMMARY_START -->"
 END_MARKER = "<!-- GITHUB_SUMMARY_END -->"
