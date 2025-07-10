@@ -9,7 +9,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriontech15)](https://github.com/oriontech15/github-readme-stats)
 
 <!-- GITHUB_SUMMARY_START -->
-
+**Total public events this year:** 0
+**Repositories contributed to:** 0
+## Repositories:
 <!-- GITHUB_SUMMARY_END -->
 
 <!--
