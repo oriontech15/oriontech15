@@ -8,6 +8,10 @@
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriontech15)](https://github.com/oriontech15/github-readme-stats)
 
+<!-- GITHUB_SUMMARY_START -->
+
+<!-- GITHUB_SUMMARY_END -->
+
 <!--
 **oriontech15/oriontech15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
