@@ -2,7 +2,7 @@ import requests
 import datetime
 import re
 
-GITHUB_USERNAME = "your-github-username"
+GITHUB_USERNAME = "oriontech15"
 GITHUB_TOKEN = "your-github-token"  # Optional, but recommended for higher rate limits
 
 START_MARKER = "<!-- GITHUB_SUMMARY_START -->"
