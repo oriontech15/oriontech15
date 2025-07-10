@@ -12,6 +12,7 @@
 **Total public events this year:** 0
 **Repositories contributed to:** 0
 ## Repositories:
+- No repositories found
 <!-- GITHUB_SUMMARY_END -->
 
 <!--
